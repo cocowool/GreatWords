@@ -1,0 +1,2 @@
+# GreatWords
+Another hexo theme.
